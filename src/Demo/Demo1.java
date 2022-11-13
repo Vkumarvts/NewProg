@@ -6,7 +6,7 @@ public class Demo1 {
 		System.out.println("First Java program");
 		System.out.println("Velocity sft testing");
 		System.out.println("Moring A Batch");
-
+                // Maked some changes for git hub for add changes
 	}
 
 }
